@@ -13,6 +13,7 @@ Before we begin, I’d like to point out that the data in this case study covers
 Now let’s get started!
 
 **Details about the company**
+
 Cyclistic started a successful bike-sharing program in 2016. Since then, the program has evolved to include a fleet of 5,824 bicycles that are geo-tracked and locked into a network of 692 stations across Chicago. Bikes can be unlocked and returned to any other station in the system at any time.
 
 Until recently, Cyclistic’s marketing strategy has focused on raising general awareness and appealing to a wide range of consumers.
@@ -33,9 +34,9 @@ To sum up, we had to figure out a way to convert the Casual riders into members.
 This is where I come into the picture, I needed to identify the trends by analyzing Cyclistic’s historical bike trip data.
 
 But before analyzing the data, I asked a few questions to myself: -
-"."**How do annual members and Casual riders use Cyclistic bikes differently?
-"."**Why would Casual riders buy Cyclistic annual memberships?
-"."How can Cyclistic use digital media to influence Casual riders to become members?
+* **How do annual members and Casual riders use Cyclistic bikes differently?
+* **Why would Casual riders buy Cyclistic annual memberships?
+* **How can Cyclistic use digital media to influence Casual riders to become members?
 
 These questions helped me to give direction and structure to my analysis.
 **The Analysis
@@ -102,16 +103,17 @@ Bike rides in the **evening were also quite popular**, accounting for **19.93%**
 **The Conclusion
 I came to the following conclusions after completing all of the analyses: -
 
-"."Casual riders rode **20 minutes** more than the members on average.
-"."Both casual riders and members tend to **like docked bikes** more than the other two bikes.
-"."Casual riders tend to make the **most of their trips on Mondays and Tuesdays**
-"."**Summer** is the **most popular season**, so it has the **highest potential** for converting casual riders into members.
-"."The majority of casual riders **rode in the afternoon**, however, **morning and evening** combined also accounted for a **huge number of rides.**
+* Casual riders rode **20 minutes** more than the members on average.
+* Both casual riders and members tend to **like docked bikes** more than the other two bikes.
+* Casual riders tend to make the **most of their trips on Mondays and Tuesdays**
+* **Summer** is the **most popular season**, so it has the **highest potential** for converting casual riders into members.
+* The majority of casual riders **rode in the afternoon**, however, **morning and evening** combined also accounted for a **huge number of rides.**
 **The Recommendations
 Now, to end this case study, here are my recommendations for the Cyclistic marketing team: -**
 
-"."Capture the huge market share of casual riders by **personalizing discounts** and **perks** in the membership program to their tastes, preferences, and riding habits.
-"."**Emphasize the benefits** of membership, such as discounts and privileges, to casual riders.
-"."**Reward existing members** to share their personal stories about how they use Cyclistic and how it has become a **vital part** of their lives on social media **using a hashtag to create a sense of community.**
+* Capture the huge market share of casual riders by **personalizing discounts** and **perks** in the membership program to their tastes, preferences, and riding habits.
+* **Emphasize the benefits** of membership, such as discounts and privileges, to casual riders.
+* **Reward existing members** to share their personal stories about how they use Cyclistic and how it has become a **vital part** of their lives on social media **using a hashtag to create a sense of community.**
+
 **Thanks for Reading!
 I hope that you find this case study interesting. :)
