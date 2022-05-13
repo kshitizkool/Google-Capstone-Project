@@ -20,8 +20,8 @@ Until recently, Cyclistic’s marketing strategy has focused on raising general 
 The flexibility of its pricing plans, which included single-ride passes, full-day passes, and annual memberships, was one strategy that helped make these things possible.
 
 **Cyclistic’s customers are broadly classified into two categories: -**
-"⋅" Customers who purchase single-ride or full-day passes are referred to as **Casual riders.**
-"⋅" Customers who purchase annual memberships are **Cyclistic members.**
+* Customers who purchase single-ride or full-day passes are referred to as **Casual riders.**
+* Customers who purchase annual memberships are **Cyclistic members.**
 **The Conflict**
 Our finance analysts concluded that annual members are much more profitable than Casual riders and my manager, Lily Moreno believed that maximizing the number of annual members will be key to future growth. She also believed that rather than creating a marketing campaign that targets all-new customers, there is a very good chance to convert Casual riders into members.
 
