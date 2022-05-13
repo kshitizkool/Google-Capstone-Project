@@ -1,5 +1,5 @@
 # Google-Capstone-Project
-This repo contains the files of capstone project in Data Analytics, which is made by using Spreadsheets, Excel, R, SQL and Tableau.
+This repo contains the files of capstone project in Data Analytics, which is made by using **Spreadsheets, Excel, R, SQL and Tableau.
 
 Starting with the introduction, I was given a scenario where I was a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The company's future success depended on increasing maximizing the number of annual memberships. Therefore, my team wanted to understand how Casual riders and annual members use Cyclistic differently.
 
@@ -20,8 +20,8 @@ Until recently, Cyclistic’s marketing strategy has focused on raising general 
 The flexibility of its pricing plans, which included single-ride passes, full-day passes, and annual memberships, was one strategy that helped make these things possible.
 
 **Cyclistic’s customers are broadly classified into two categories: -**
-"." Customers who purchase single-ride or full-day passes are referred to as **Casual riders.**
-"." Customers who purchase annual memberships are **Cyclistic members.**
+"⋅" Customers who purchase single-ride or full-day passes are referred to as **Casual riders.**
+"⋅" Customers who purchase annual memberships are **Cyclistic members.**
 **The Conflict**
 Our finance analysts concluded that annual members are much more profitable than Casual riders and my manager, Lily Moreno believed that maximizing the number of annual members will be key to future growth. She also believed that rather than creating a marketing campaign that targets all-new customers, there is a very good chance to convert Casual riders into members.
 
