@@ -1,6 +1,6 @@
 # Google-Capstone-Project
 ## Cyclistic Case Study
-This repo contains the files of capstone project in Data Analytics, which is made by using **Spreadsheets, Excel, R, SQL and Tableau.**
+This repo contains the files of capstone project in Data Analytics, which is made by using **Spreadsheets, R, SQL and Tableau.**
 
 Starting with the introduction, I was given a scenario where I was a junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. The company's future success depended on increasing maximizing the number of annual memberships. Therefore, my team wanted to understand how Casual riders and annual members use Cyclistic differently.
 
