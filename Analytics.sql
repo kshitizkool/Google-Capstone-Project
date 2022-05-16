@@ -1,3 +1,4 @@
+# This is the SQL File
 Select *
 From Google_CaseStudies..June_2020
 
